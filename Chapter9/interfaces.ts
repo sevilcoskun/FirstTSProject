@@ -29,11 +29,11 @@ let student2:IStudent = {
 student2.display();
 
 // Functional Interface
-interface  Add{
+interface Add{
     (x:number, y:number):void
 }
 
-interface  Sub{
+interface Sub{
     (x:number, y:number):void
 }
 
