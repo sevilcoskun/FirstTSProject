@@ -8,6 +8,8 @@
 # Others
 *.js
 .idea
+.DS_Store
+
 
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
